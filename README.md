@@ -6,7 +6,6 @@
 
 ![Victor Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=victoreduardo21&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso:
 
 <div style="display: inline_blok"><br/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,10 +19,6 @@
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <!--<img alt="" src="" />-->
 
-
-</div><br/>
-
-### Tecnologias que eu estou aprendendo:
 
 <div style="display: inline_blok"><br/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
